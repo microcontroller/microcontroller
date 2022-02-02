@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Patrick aka @microcontroller
+- 👋 Hi, I’m Patrick aka [@microcontroller](https://github.com/microcontroller)
 - 👀 My day job is in system security and network traffic analysis
 - 🌱 I’m currently learning how to interact with Binance Smart Chain in Python and Solidity
 - 💞️ Watch my video series: [@micr0controller](https://www.twitch.tv/micr0controller) on Twitch, and my [YouTube channnel](https://www.youtube.com/channel/UCVs04q4itr04j-7ZH8xUeeg)
